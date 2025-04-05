@@ -1,0 +1,11 @@
+
+body {
+  background-color: black;
+}
+
+#contenedorImagenes img {
+  position: absolute;
+  width: 100px;
+  height: auto;
+  transition: left 1s ease, top 1s ease; 
+}

@@ -1,0 +1,24 @@
+{
+  "name": "aplicacionweb",
+  "version": "1.0.0",
+  "description": "Miniaplicación web para el curso de Desarrollo de aplicaciones empresariales",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaximoHumittas/AplicacionWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaximoHumittas/AplicacionWeb/issues"
+  },
+  "homepage": "https://github.com/MaximoHumittas/AplicacionWeb#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
